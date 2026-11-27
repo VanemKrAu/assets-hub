@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://47.122.111.152/epg.xml.gz"
+#EXTM3U x-tvg-url="https://epg.zsdc.eu.org/t.xml.gz"
 #EXTINF:-1 tvg-chno="1" tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视",CCTV1
 http://222.85.69.6/PLTV/88888888/224/3221227279/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 tvg-chno="2" tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视",CCTV2
